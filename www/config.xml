@@ -3,16 +3,16 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "mob.app.dev.lifecycle"
+        id        = "mob.app.dev.storage"
         version   = "1.0.0">
 
-    <name>Application Lifecycle Test</name>
+    <name>storage Test</name>
 
     <description>
-        A sample application that counts the occurances of lifecycle events.
+        A sample application that loads keys and values to storage that can be fatched.
     </description>
 
-    <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
+    <author href="worcester.ac.uk" >
         WBS Computing
     </author>
 
